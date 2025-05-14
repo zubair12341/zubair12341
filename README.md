@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Zubair Khan</h1>
-<h3 align="center">💻 Backend & Full-Stack Developer | Laravel · Node.js · React · AI Integrator</h3>
+<h3 align="center">💼 Backend-Obsessed Developer | Laravel & Node.js Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zubair12341&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
